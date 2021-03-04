@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f473195-bdb2-48da-9eb0-659198f76fee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../.." />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1d1wIqd5Kh0CO2ClRxYAKdJXh23" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/workerpool-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\go\src\awesomeProject6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.pacer_test.go (1)">
+    <configuration name="TestExample in awesomeProject6/workerpool-master" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject6" />
+      <working_directory value="$PROJECT_DIR$/workerpool-master" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="awesomeProject6/workerpool-master" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestExample$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestPacedWorkers in awesomeProject6/workerpool-master/pacer" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject6" />
+      <working_directory value="$PROJECT_DIR$/workerpool-master/pacer" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="awesomeProject6/workerpool-master/pacer" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestPacedWorkers$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pacer_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject6" />
+      <working_directory value="$PROJECT_DIR$/workerpool-master/pacer" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="awesomeProject6" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/workerpool-master/pacer/pacer_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pacer_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject6" />
+      <working_directory value="$PROJECT_DIR$/workerpool-master/pacer" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="awesomeProject6" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/workerpool-master/pacer/pacer_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.pacer_test.go (1)" />
+        <item itemvalue="Go Test.TestPacedWorkers in awesomeProject6/workerpool-master/pacer" />
+        <item itemvalue="Go Test.pacer_test.go" />
+        <item itemvalue="Go Test.TestExample in awesomeProject6/workerpool-master" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1591663944922">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591663944922" />
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom" timestamp="1591663944930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591663944930" />
+    <state width="1237" height="150" key="GridCell.Tab.0.center" timestamp="1591663944930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591663944930" />
+    <state width="1237" height="150" key="GridCell.Tab.0.left" timestamp="1591663944930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591663944930" />
+    <state width="1237" height="150" key="GridCell.Tab.0.right" timestamp="1591663944930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591663944930" />
+  </component>
+</project>
